@@ -1,30 +1,31 @@
-Developing a Language Translator
-AIM:
+# Developing a Language Translator
+
+# AIM:
 To develop a simple GUI-based language translator using Python and the Google Translate API.
 
-DESIGN STEPS:
-Step 1:
+## DESIGN STEPS:
+
+### Step 1:
 Define the GUI layout and create an interface using the tkinter library.
 
-Step 2:
+### Step 2:
 Set up dropdown menus for selecting source and target languages.
 
-Step 3:
+### Step 3:
 Implement text input and output boxes for user interaction.
 
-Step 4:
+### Step 4:
 Integrate the Google Translate API to handle the translation functionality.
 
-Step 5:
+### Step 5:
 Add buttons for translating and clearing text.
 
-Step 6:
+### Step 6:
 Test the application for various language translations.
 
-PROGRAM:
-python
-Copy
-Edit
+## PROGRAM:
+
+```
 # Importing required libraries
 import tkinter as tk
 from tkinter import ttk, messagebox
@@ -170,3 +171,5 @@ footer_label.pack(side=tk.BOTTOM, pady=10)
 
 # Run the application
 app.mainloop()
+
+```
