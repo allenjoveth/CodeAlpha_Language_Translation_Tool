@@ -1,4 +1,4 @@
-# Developing a Language Translator
+# Implementation of a Language Translation Tool
 
 # AIM:
 To develop a simple GUI-based language translator using Python and the Google Translate API.
