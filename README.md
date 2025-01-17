@@ -173,3 +173,12 @@ footer_label.pack(side=tk.BOTTOM, pady=10)
 app.mainloop()
 
 ```
+
+## OUTPUT:
+
+![Screenshot 2025-01-17 200724](https://github.com/user-attachments/assets/a296db48-4d71-42b8-aeff-d37edd1e610d)
+
+## RESULT:
+
+The Language Translation Tool was successfully implemented, providing accurate and user-friendly text translation between multiple languages.
+
