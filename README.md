@@ -1,6 +1,6 @@
 # Implementation of a Language Translation Tool
 
-# AIM:
+## AIM:
 To develop a GUI-based language translator using Python and the Google Translate API.
 
 ## DESIGN STEPS:
